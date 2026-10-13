@@ -1,7 +1,6 @@
- # 📘 Flutter & Dart - My Daily Learning Log
+ # 📘  Flutter & Dart Journey - By Sanan Ahmad Khan.
 
-> **Student:** Sanan Ahmad Khan | **Goal:** Become a Flutter App Developer | **Start:** Oct 2025
-
+This repository documents my journey of learning Dart and Flutter from scratch.
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -24,5 +23,8 @@ My daily Flutter & Dart practice codes. Each folder is my daily practice.
 ### 🎯 Goal
 To become a Flutter Developer.
 
+### 📫 Contact
+- *GitHub:* sananahmadkhan29
+- *Email:* sananahmadkhan29@gmail.com
 ---
 <p align="center">Updated Daily</p>
