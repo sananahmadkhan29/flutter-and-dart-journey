@@ -17,7 +17,7 @@
 - **Week 02** - Learning 🔄
 - **Week 03** - Upcoming ⏳
 - **... More weeks coming soon 🚀**
-  
-  ### 📫 Contact
-- *GitHub:*  [sananahmadkhan29](https://github.com/sananahmadkhan29)
-- *Email:* sananahmadkhan29@gmail.com
+
+ ### 📬 Contact
+- **GitHub:** [sananahmadkhan29](https://github.com/sananahmadkhan29)
+- **Email:** sananahmadkhan29@gmail.com
