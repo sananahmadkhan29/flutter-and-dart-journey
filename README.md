@@ -10,14 +10,16 @@
 
 ### 📂 About Repo
  This repository documents my journey of learning Dart and Flutter from scratch.
+<br>
+Currently learning Dart as a foundation for Flutter App Development.
 
- 📈 Progress Tracker
+### 📈 Progress Tracker
 
 - **Week 01** - Done ✅
 - **Week 02** - Learning 🔄
 - **Week 03** - Upcoming ⏳
 - **... More weeks coming soon 🚀**
 
- ### 📬 Contact
+### 📬 Contact
 - **GitHub:** [sananahmadkhan29](https://github.com/sananahmadkhan29)
 - **Email:** sananahmadkhan29@gmail.com
