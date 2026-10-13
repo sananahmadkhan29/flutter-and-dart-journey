@@ -1,4 +1,4 @@
- # 📘  Flutter & Dart Journey - By Sanan Ahmad Khan.
+ # 📘Flutter & Dart Journey - By Sanan Ahmad Khan.
 
 This repository documents my journey of learning Dart and Flutter from scratch.
 <p>
