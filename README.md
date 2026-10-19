@@ -15,7 +15,7 @@ Currently learning Dart as a foundation for Flutter App Development.
 
 ### 📈 Progress Tracker
 
-- **Week 01** - Done ✅
+- **Week 01** - Done ✅ - 7 Files: Basic, Variables, Condition, Functions, Loops, List
 - **Week 02** - Learning 🔄
 - **Week 03** - Upcoming ⏳
 - **... More weeks coming soon 🚀**
