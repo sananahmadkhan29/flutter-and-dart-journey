@@ -17,7 +17,7 @@ Currently learning Dart as a foundation for Flutter App Development.
 
 | Week | Status | Topics Covered | 
 | :--- | :--- | :--- |
-| **Week 01** | ✅ Done | `Dart Basics`, `Variables`, `var`, `Conditional Statements`, `Functions`, `List`, `Loops` |
+| **Week 01** | ✅ Done | `Dart Basics`, `Variables`,`Conditional Statements`, `Functions`, `List`, `Loops` |
 | **Week 02** | ✅ Done | `OOP`, `Class & Object`, `Constructors` - Student Model |
 | **Week 03** | 🔄 Learning | 🚧 In Progress... |
 | **Week 04** | ⏳ Upcoming | Coming Soon... |
