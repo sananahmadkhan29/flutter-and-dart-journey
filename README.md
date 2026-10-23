@@ -15,10 +15,14 @@ Currently learning Dart as a foundation for Flutter App Development.
 
 ### 📈 Progress Tracker
 
-- **Week 01** - Done ✅ [Dart Basics, Variables, Conditional_Statements, Functions, List, Loops]   
-- **Week 02** - Done ✅ [ OOP, Class & Object, Constructors - Student Model ]
-- **Week 03** - Learning 🔄
-- **... More weeks coming soon 🚀**
+| Week | Status | Topics Covered | 
+| :--- | :--- | :--- |
+| **Week 01** | ✅ Done | `Dart Basics`, `Variables`, `var`, `Conditional Statements`, `Functions`, `List`, `Loops` |
+| **Week 02** | ✅ Done | `OOP`, `Class & Object`, `Constructors` - Student Model |
+| **Week 03** | 🔄 Learning | 🚧 In Progress... |
+| **Week 04** | ⏳ Upcoming | Coming Soon... |
+
+> ... More weeks coming soon 🚀
 
 ### 📬 Contact
 - **GitHub:** [sananahmadkhan29](https://github.com/sananahmadkhan29)
