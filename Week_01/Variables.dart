@@ -11,11 +11,15 @@ double mouseprice = 500.0;
    // 4. bool. use for True / False statements.
 bool isMouseWorking = true;
 
-   //  print( ); use to show output on screen.
+   // 5. var. use for any type of data.
+var name2 = "Sanan Ahmad";
+
+ //  print( ); use to show output on screen.
 
 print(name);
    print(age);
    print(mouseprice);
    print(isMouseWorking);
- 
+   print(name2);
+   
 }
